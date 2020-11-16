@@ -53,15 +53,7 @@ For a complete overview of the properties, you may read the [NSG Flow Logs templ
          "enabled": "boolean",
          "workspaceResourceId": "string",
           "trafficAnalyticsInterval": "integer"
-        },
-        "retentionPolicy": {
-           "days": "integer",
-           "enabled": "boolean"
-         },
-        "format": {
-           "type": "string",
-           "version": "integer"
-         }
+        }
       }
     }
   }
